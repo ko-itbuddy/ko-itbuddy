@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ko-itbuddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ko-itbuddyD&show_icons=true&theme=radical)
+![ko-itbuddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ko-itbuddy&show_icons=true&theme=radical)
 
 <!--
 **ko-itbuddy/ko-itbuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
