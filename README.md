@@ -6,7 +6,7 @@
 
 
 ### My Project
-Clean Code Porject 1: ![](https://github.com/ko-itbuddy/coffee-shop)
+Clean Code Porject 1: ![커피숍 주문 시스템](https://github.com/ko-itbuddy/coffee-shop)
 
 
 <!--
