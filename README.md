@@ -6,8 +6,8 @@
 
 
 ### My Project
-Clean Code Porject 1: ![커피숍 주문 시스템](https://github.com/ko-itbuddy/coffee-shop)
-AWS Fargate, ECS, ECR, Github Action : [항해플러스 2기 CI/CD 실습](https://github.com/ko-itbuddy/hanghea-0010/tree/main/.github)
+- Clean Code Porject 1: ![커피숍 주문 시스템](https://github.com/ko-itbuddy/coffee-shop)
+- AWS Fargate, ECS, ECR, Github Action : [항해플러스 2기 CI/CD 실습](https://github.com/ko-itbuddy/hanghea-0010/tree/main/.github)
 
 
 <!--
