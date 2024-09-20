@@ -74,8 +74,6 @@
 
 
 ### My Project
-- Kafka pub/sub Example: [카프카 예제](https://github.com/ko-itbuddy/spring-kafka)
-- Spring Cloud Stream with Kafka: [Spring cloud stream kafka multi topics](https://github.com/ko-itbuddy/spring-stream-kafka)
 - Clean Code, Clean architecture Porject with kubernetes : [커피숍 주문 시스템](https://github.com/ko-itbuddy/coffee-shop)
 - AWS Fargate, ECS, ECR, Github Action : [항해플러스 2기 CI/CD 실습](https://github.com/ko-itbuddy/hanghea-0010/tree/main/.github)
 - Chuggume 축구미 : [Opensource Project, 웹 크롤링 사용](https://github.com/CHUGGU-ME/CHUGGU-ME-v2) 
@@ -85,6 +83,8 @@
 ### I'm currently learning...
 - kubernetes [Kubernetes와 Docker로 한번에 끝내는 컨테이너 기반 MSA](https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202208/075729-717/[%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4]-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%EC%86%8C%EA%B0%9C%EC%84%9C-%EC%B4%88%EA%B2%A9%EC%B0%A8-%ED%8C%A8%ED%82%A4%EC%A7%80--kubernetes%EC%99%80-docker%EB%A1%9C-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%81%9D%EB%82%B4%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EA%B8%B0%EB%B0%98-msa-.pdf)
 - kafka
+  - [카프카 예제](https://github.com/ko-itbuddy/spring-kafka)
+  - [Spring cloud stream kafka multi topics](https://github.com/ko-itbuddy/spring-stream-kafka)
 - MSA Design Pattern
 - k6 Load test [성능 Test와 K6 도구 소개](https://github.com/schooldevops/k6-tutorials/blob/main/UsingK6/99_K6_Seminar.md)
 
