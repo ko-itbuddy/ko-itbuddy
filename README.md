@@ -73,9 +73,9 @@
 
 
 ### My Project
-- Clean Code, Clean architecture Porject with kubernetes : [커피숍 주문 시스템](https://github.com/ko-itbuddy/coffee-shop)
-- AWS Fargate, ECS, ECR, Github Action : [항해플러스 2기 CI/CD 실습](https://github.com/ko-itbuddy/hanghea-0010/tree/main/.github)
-- Chuggume 축구미 : [Opensource Project, 웹 크롤링 사용](https://github.com/CHUGGU-ME/CHUGGU-ME-v2) 
+- 커피숍 주문 시스템 : [Clean Code, Clean architecture Porject with kubernetes](https://github.com/ko-itbuddy/coffee-shop)
+- 항해플러스 2기 CI/CD 실습 : [AWS Fargate, ECS, ECR, Github Action](https://github.com/ko-itbuddy/hanghea-0010/tree/main/.github)
+- Chuggume 축구미 : [Opensource Project, Playwright, kotlinx-cli ](https://github.com/CHUGGU-ME/CHUGGU-ME-v2) 
 - 손님 번호 호출 시스템 서버 : [Nest.js 기반 프로젝트, jenkins 배포, aws ec2, polly](https://github.com/ko-itbuddy/nestjs-broadcast_speaker)
 - 손님 번호 호출 시스템 Android : [private repo](https://github.com/ko-itbuddy/BroadcastSpeaker_mobile)
 
