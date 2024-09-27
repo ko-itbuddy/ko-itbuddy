@@ -52,6 +52,8 @@
 - Layered Architecture
 - Clean Architecture
 
+### 
+
 ### Contacts
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40itbuddy%2Fposts&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=velog&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -71,7 +73,7 @@
     - [Spring cloud stream kafka multi topics](https://github.com/ko-itbuddy/spring-stream-kafka)
     - [카프카 기초](https://github.com/ko-itbuddy/kafka-study)
 - MSA Design Pattern
-    - [spring kafka avro](https://github.com/ko-itbuddy/spring-kafka-avro)
+    - [spring kafka avro BDD](https://github.com/ko-itbuddy/spring-kafka-avro)
 - k6 Load test [성능 Test와 K6 도구 소개](https://github.com/schooldevops/k6-tutorials/blob/main/UsingK6/99_K6_Seminar.md)
 
 
