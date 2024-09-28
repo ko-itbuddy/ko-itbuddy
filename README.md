@@ -20,7 +20,7 @@
 ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=Mockito&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-25A162?style=for-the-badge&logo=Testcontainers&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-25A162?style=for-the-badge&logo=Playwright&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/Playwright-25A162?style=for-the-badge&logo=QueryDSL&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-25A162?style=for-the-badge&logo=QueryDSL&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
