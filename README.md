@@ -70,7 +70,7 @@ ko.itbuddy@gmail.com
     - [Spring cloud stream kafka multi topics](https://github.com/ko-itbuddy/spring-stream-kafka)
     - [카프카 기초](https://github.com/ko-itbuddy/kafka-study)
 - MSA Design Pattern
-    - [spring kafka avro BDD](https://github.com/ko-itbuddy/spring-kafka-avro)
+    - [spring kafka avro, choreography saga, outbox](https://github.com/ko-itbuddy/spring-kafka-avro)
 - k6 Load test [성능 Test와 K6 도구 소개](https://github.com/schooldevops/k6-tutorials/blob/main/UsingK6/99_K6_Seminar.md)
 
 
