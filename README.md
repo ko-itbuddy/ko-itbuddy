@@ -73,6 +73,9 @@ ko.itbuddy@gmail.com
     - [spring kafka avro, choreography saga, outbox](https://github.com/ko-itbuddy/spring-kafka-avro)
 - k6 Load test [성능 Test와 K6 도구 소개](https://github.com/schooldevops/k6-tutorials/blob/main/UsingK6/99_K6_Seminar.md)
 
+### I'm currently reading...
+- 객체지향의 사실과 오해 - 조영호
+- 도메인 주도 개발 시작하기 - 최범균
 
 <!--
 **ko-itbuddy/ko-itbuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
