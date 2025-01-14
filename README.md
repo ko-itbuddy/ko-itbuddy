@@ -56,7 +56,7 @@ ko.itbuddy@gmail.com
 
 
 ### My Project
-- redis를 활용한 영화 예매 시스템 [hanghae-skillup/redis_1st](https://github.com/ko-itbuddy/redis_1st)
+- redis를 활용한 영화 예매 시스템 : [hanghae-skillup/redis_1st](https://github.com/ko-itbuddy/redis_1st)
 - 커피숍 주문 시스템 : [Clean Code, Clean architecture Porject with kubernetes](https://github.com/ko-itbuddy/coffee-shop)
 - 항해플러스 2기 CI/CD 실습 : [AWS Fargate, ECS, ECR, Github Action](https://github.com/ko-itbuddy/hanghea-0010/tree/main/.github)
 - Chuggume 축구미 : [Opensource Project, Playwright, kotlinx-cli ](https://github.com/CHUGGU-ME/CHUGGU-ME-v2) 
