@@ -5,11 +5,7 @@
 ### Language
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks & Library
@@ -46,8 +42,6 @@
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 
-
 ### Contacts
 ko.itbuddy@gmail.com
 
@@ -74,9 +68,13 @@ ko.itbuddy@gmail.com
     - [spring kafka avro, choreography saga, outbox](https://github.com/ko-itbuddy/spring-kafka-avro)
 - k6 Load test [성능 Test와 K6 도구 소개](https://github.com/schooldevops/k6-tutorials/blob/main/UsingK6/99_K6_Seminar.md)
 
-### I'm currently reading...
+### Readed Books
 - 객체지향의 사실과 오해 - 조영호
 - 도메인 주도 개발 시작하기 - 최범균
+- Clean architecture - Robert C. Martin
+
+### I'm currently reading...
+- 객체지향의 사실과 오해 ( 2번 째 )
 
 <!--
 **ko-itbuddy/ko-itbuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
